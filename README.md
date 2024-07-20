@@ -1,5 +1,7 @@
 # Alex Performance v2
 
+![Performance Script](https://github.com/thelordalex/Alex-performance-v2/blob/main/performance_script.jpg)
+
 ## Description
 
 `Alex Performance v2` is a performance optimization script for Android devices. It optimizes CPU, GPU, and memory settings to enhance system performance. Root access is required.
